@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phoebe0909
 - 👀 I’m interested in using technology to create greater access to essential services.
-- 🌱 I’m currently learning Java, and hoping to become an Android developer.
-- 💞️ I'd love to collaborate but right now, I'm still in the early stages of learning to code.
+- 🌱 I’m currently learning Java and Kotlin.
+- 💞️ I'd love to collaborate on open source Java projects.
 - 📫 How to reach me ... github is a good start:)
 
 <!---
