@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phoebe0909
+- 👋 Hi, I’m Phoebe Weiss
 - 👀 I’m interested in using technology to create greater access to essential services.
 - 🌱 I’m currently learning Java and Kotlin.
 - 💞️ I'd love to collaborate on open source Java projects.
