@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phoebe Weiss.
 - 👀 I’m interested in using technology to create greater access to essential services.
-- 🌱 I’m currently learning Java and Kotlin.
-- 💞️ I'd love to collaborate on open source Java projects.
+- 🌱 I’m currently learning Java and Kotlin. My current focus is building Android apps and I plan to attend a coding bootcamp in January 2023.
+- 💞️ I'd love to collaborate with UI/UX designers who would like to add some functionality to their portfolios.
 - 📫 How to reach me ... github is a good start:)
 
 <!---
